@@ -1,0 +1,15 @@
+Ignore the Python virtual environment folder
+
+.venv/
+
+Python cache files
+
+pycache/
+*.pyc
+*.pyo
+
+Streamlit secrets file (should NOT be committed)
+
+.streamlit/secrets.toml
+
+.devcontainer/
